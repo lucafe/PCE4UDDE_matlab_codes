@@ -1,6 +1,6 @@
-In this folder you can find the codes that are used in the second chapter of the Master thesis: 
+In this folder, you can find the codes that are used in the second chapter of the Master thesis: 
 “Basic Concepts of Probability Theory”.
-In particular you can find:
+In particular, you can find:
 
 -	Density_estimators[script] compares the estimates of the probability density function of a standard normal distribution. 
 It compares the histogram estimator and kernel density estimator with respect to the real probability density funtion of the normal distribution.
@@ -11,7 +11,7 @@ It compares the histogram estimator and kernel density estimator with respect to
 
 -	Distribution_Uniform[script] plots the probability density function and the cumulative density function of an arbitrary uniform distribution, U(a,b).
 
--	Inversion_method_figure[script] Representation of how the inversion methods works. In particular, the figure representes the inverse cumulative density function of a normal distribution highlighting its codomain [0,1] and a generic sample of a uniform distribution, denoted with u, that through the inversion method is sent to a sample of the normal distribution in this specific case, the obtained sample is denoted with x.
+-	Inversion_method_figure[script] Representation of how the inversion methods works. In particular, the figure represents the inverse cumulative density function of a normal distribution highlighting its codomain [0,1] and a generic sample of a uniform distribution, denoted with u, that through the inversion method is sent to a sample of the normal distribution in this specific case, the obtained sample is denoted with x.
 
 -	LCG[function] is the Pseudo Random Number Generators: Linear Congruential Generator initialized with the parameters given in equation (1.42), i.e. a=7^5; c=0; m=2^{31}. Given in input an integer n, the program furnishes a vector x with n components; Each of these components is a sample of a uniform distribution or more precisely a pseudo-random number. 
 
