@@ -1,8 +1,8 @@
-﻿# Basic Concepts of Probability Theory
+# Basic Concepts of Probability Theory
 
 
 In this folder, you can find the codes that are used in the second chapter of the Master thesis: 
-“Basic Concepts of Probability Theory”.
+*“Basic Concepts of Probability Theory”*.
 In particular, you can find:
 
 -	**Density_estimators**[*script*] compares the estimates of the probability density function of a standard normal distribution. 

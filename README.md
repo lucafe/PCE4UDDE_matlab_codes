@@ -1,22 +1,23 @@
 # Polynomial Chaos Theory: Application to the stability of Uncertain Delay Differential Equations
 ## Matlab codes
 
-In this repository, all the Matlab codes, used for developing my Master Thesis: "Polynomial Chaos Theory: Application to the stability of Uncertain Delay Differential Equations", are collected. 
+In this repository, all the Matlab codes, used for developing my Master Thesis: *"Polynomial Chaos Theory: Application to the stability of Uncertain Delay Differential Equations"*, are collected. 
 The thesis furnishes all the theoretical bases and the motivations for implementing the codes that you find in these folders. Moreover, the notation used to develop the code is taken by the thesis.
 
 If you do not possess the Thesis and you want to see it please send an email to fenzi.luca@gmail.com. I am very glad to share this document with the interested people. 
 
 For simplicity, the codes are divided in folders following the chapter of the thesis:
 
-2 - [Basic Concepts of Probability Theory](https://github.com/lucafe/PCE4UDDE_matlab_codes/tree/master/2ch_Probability)
 
-3 - Orthogonal Polynomials and Approximation Theory   (3ch_Approximation)
+1. [Basic Concepts of Probability Theory](https://github.com/lucafe/PCE4UDDE_matlab_codes/tree/master/2ch_Probability) *2ch_Probability*
 
-4 - Polynomial Chaos Theory                           (4ch_PCE)
+2. [Orthogonal Polynomials and Approximation Theory](https://github.com/lucafe/PCE4UDDE_matlab_codes/tree/master/3ch_Approximation) *3ch_Approximation*
 
-5 - Uncertain Delay Differential Equation             (5ch_UDDE)
+3. [Polynomial Chaos Theory](https://github.com/lucafe/PCE4UDDE_matlab_codes/tree/master/4ch_PCE)   *4ch_PCE*
 
-6 - Computational Results                             (6ch_Results)
+4. [Uncertain Delay Differential Equation](https://github.com/lucafe/PCE4UDDE_matlab_codes/tree/master/5ch_UDDE)  *5ch_UDDE*
+
+5. [Computational Results](https://github.com/lucafe/PCE4UDDE_matlab_codes/tree/master/6ch_Results) *6ch_Results*
 
 In every folder, you find another README file with a short explanation of the codes of the folder. 
 In this folder, you can find only the Hard Cover of the thesis.
