@@ -1,9 +1,9 @@
-In this folder, you can find the codes that are used in the second chapter of the Master thesis: 
+﻿In this folder, you can find the codes that are used in the second chapter of the Master thesis: 
 “Basic Concepts of Probability Theory”.
 In particular, you can find:
 
 -	Density_estimators[script] compares the estimates of the probability density function of a standard normal distribution. 
-It compares the histogram estimator and kernel density estimator with respect to the real probability density funtion of the normal distribution.
+It compares the histogram estimator and kernel density estimator with respect to the real probability density function of the normal distribution.
 
 -	Distribution_Exponential[script] plots the probability density functions and the cumulative density functions of the exponential distributions with rate 2, 1, and 0.5.
 
