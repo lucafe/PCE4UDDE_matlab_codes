@@ -6,10 +6,15 @@ The thesis furnishes all the theoretical basis and the motivations for implement
 If you do not possess the Thesis and you want to see it please send an email to fenzi.luca@gmail.com. I am very glad to share this document with the interested people. In this folder you can find only the Hard Cover of the thesis.
 
 For simplicity, the codes are divided in folders following the chapter of the thesis:
+
 2 - Basic Concepts of Probability Theory              (2ch_Probability)
+
 3 - Orthogonal Polynomials and Approximation Theory   (3ch_Approximation)
+
 4 - Polynomial Chaos Theory                           (4ch_PCE)
+
 5 - Uncertain Delay Differential Equation             (5ch_UDDE)
+
 6 - Computational Results                             (6ch_Results)
 
 In every folder, you find an other README file whith a short explaination of the codes of the folder. 
