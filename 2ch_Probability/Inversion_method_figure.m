@@ -1,6 +1,9 @@
 %% INVERSION METHOD
 % This script plot an image that can be used to explain the inversion
 % method
+%
+%   written by Luca Fenzi - November 18, 2015
+%   Contact: fenzi.luca@gmail.com
 
 % we use the inverse of the CDF of the  normal distribution
 % x=norminv(p,mu,sigma); % inverse of the cdf of the normal
