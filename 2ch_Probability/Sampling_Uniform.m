@@ -2,6 +2,9 @@
 % This figure shows the exact pdf compared with the pdf obtained by the
 % kernel density estimator through a sample of the uniform distribution
 % using the Linear Congruential Genera
+%
+%   written by Luca Fenzi - November 18, 2015
+%   Contact: fenzi.luca@gmail.com
 
 % Sample of the uniform distribution
 n=1000000;
