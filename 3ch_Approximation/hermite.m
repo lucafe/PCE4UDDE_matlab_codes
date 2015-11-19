@@ -16,7 +16,7 @@ function h = hermite(n,x)
 %    E.g. calling h = hermite(3)
 %    the output is h = [1 0 -3 0], i.e. x^3 - 3x
 % 
-% 2. If x is given, then h = He_n(x) and h is the same size of x.
+% 2. If x is given, then h = He_n(x) and h has the same size of x.
 %    E.g., He_2(x) = x^2 - 1
 %    calling h = hermite(2,[0 1 2])
 %    the output is h = [-1 0 3]

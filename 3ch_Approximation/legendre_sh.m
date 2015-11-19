@@ -16,7 +16,7 @@ function p = legendre_sh(n,x)
 %    E.g. calling p = legendre_sh(3)
 %    the output is p = [20 -30 12 -1], i.e. 20*x^3 -30*x^2+12*x-1
 % 
-% 2. If x is given, then p = P^*_n(x) and p is the same size of x.
+% 2. If x is given, then p = P^*_n(x) and p has the same size of x.
 %    E.g., P^*_2(x) = 6*x^2 -6*x+1
 %    calling p = legendre_sh(2,[0 1 2])
 %    the output is p = [1 1 13]

@@ -16,7 +16,7 @@ function l = laguerre(n,x)
 %    E.g. calling l = laguerre(3)
 %    the output is l = [1 -9 +18 -6], i.e. x^3 - 3/5x
 % 
-% 2. If x is given, then l = L_n(x) and l is the same size of x.
+% 2. If x is given, then l = L_n(x) and l has the same size of x.
 %    E.g., L2(x) = x^2 - 4x + 2
 %    calling l = laguerre(2,[0 1 2])
 %    the output is l = [2 -1 -2]

@@ -16,7 +16,7 @@ function p = legendre(n,x)
 %    E.g. calling p = legendre(3)
 %    the output is p = [1 0 -0.6 0], i.e. x^3 - 3/5x
 % 
-% 2. If x is given, then p = P_n(x) and p is the same size of x.
+% 2. If x is given, then p = P_n(x) and p has the same size of x.
 %    E.g., P_2(x) = x^2 - 1/3
 %    calling p = legendre(2,[0 1 2])
 %    the output is p = [-1/3 1/6 3+2/3]
