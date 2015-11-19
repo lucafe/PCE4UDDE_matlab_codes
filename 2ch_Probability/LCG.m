@@ -3,6 +3,9 @@ function [x] = LCG(n)
 % is the most famous pseudo random generator
 % Input      n - number of pseudo random number that we want to generate
 % Output     x - vector containing the sequence of random numbers
+%
+%   written by Luca Fenzi - November 18, 2015
+%   Contact: fenzi.luca@gmail.com
 
 % It is initialized with the following parameters:
 m=2^(31)-1;      %modulus
