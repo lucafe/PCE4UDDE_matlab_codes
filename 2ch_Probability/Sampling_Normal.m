@@ -2,6 +2,9 @@
 % This figure shows the exact pdf compared with the pdf obtained by the
 % kernel density estimator through a sample of the normal distribution
 % evaluated by the BOX-MULLER ALGORITHM
+%
+%   written by Luca Fenzi - November 18, 2015
+%   Contact: fenzi.luca@gmail.com
 
 set(0,'defaultlinelinewidth',1.2);
 
