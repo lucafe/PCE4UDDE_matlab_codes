@@ -1,6 +1,9 @@
 %% SAMPLING METHOD FOR THE EXPONENTIAL DISTRIBUTION
 % This figure shows the exact pdf compared with the pdf obtained by the
 % kernel density estimator through a sample of the exponential distribution
+%
+%   written by Luca Fenzi - November 18, 2015
+%   Contact: fenzi.luca@gmail.com
 
 % Since we want that the exact pdf and the pdf obtained using the kernel 
 % density estimator have the same color, we require that the default colors
