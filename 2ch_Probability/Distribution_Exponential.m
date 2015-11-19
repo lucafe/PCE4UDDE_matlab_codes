@@ -1,5 +1,8 @@
 %% EXPONENTIAL DISTRIBUTION E(lambda)
 % figures with the pdfs and the cdfs
+%
+%   written by Luca Fenzi - November 18, 2015
+%   Contact: fenzi.luca@gmail.com
 
 % Support of the exponential distribution
 support=0:0.01:10;
