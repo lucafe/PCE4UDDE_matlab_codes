@@ -1,5 +1,8 @@
 %% UNIFORM DISTRIBUTION U(a,b)
 % figures with the pdf and cdf of a generic unifor distribution
+%
+%   written by Luca Fenzi - November 18, 2015
+%   Contact: fenzi.luca@gmail.com
 
 % Definition of the interval of the uniform distribution 
 a=0;
