@@ -3,8 +3,11 @@
 ## UPDATE: Polynomial (chaos) approximation of the spectral Abscissa
 
 Further analysis and matlab file are available for polynomial (chaos) approximation of the spectral abscissa. 
+
 The recent developments explicit the parallelism between polynomial chaos theory and polynomial approximation, reviewing the convergence results of this latter framework. 
+
 **Article:** L. Fenzi & W. Michiels, *Polynomial (chaos) approximation of maximum eigenvalue functions: efficiency and limitations,* https://arxiv.org/abs/1804.03881 (2018).
+
 **Matlab Tutorial:** L. Fenzi & W. Michiels, *Experiments on polynomial (chaos) approximation of maximum eigenvalue functions: Tutorial* Technical Report KU Leuven, Department of Computer Science http://www.cs.kuleuven.be/publicaties/rapporten/tw/TW688.abs.html (2018).  
 
 ## Matlab codes
