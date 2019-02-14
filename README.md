@@ -2,7 +2,7 @@
 
 # Polynomial (chaos) approximation of the maximum eigenvalue functions: efficiency and limitations
 
-Further analysis and matlab file are available for polynomial (chaos) approximation of the spectral abscissa. 
+Further analysis and matlab codes are available for polynomial (chaos) approximation of the uncertain delay differential euqations stability measure  
 
 The recent developments explicit the parallelism between polynomial chaos theory and polynomial approximation, reviewing the convergence results of this latter framework. 
 
