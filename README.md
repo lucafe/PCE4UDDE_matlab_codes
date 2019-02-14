@@ -6,7 +6,7 @@ Further analysis and matlab file are available for polynomial (chaos) approximat
 
 The recent developments explicit the parallelism between polynomial chaos theory and polynomial approximation, reviewing the convergence results of this latter framework. 
 
-**Article:** L. Fenzi & W. Michiels, *Polynomial (chaos) approximation of maximum eigenvalue functions: efficiency and limitations,* https://arxiv.org/abs/1804.03881 (2018).
+**Article:** L. Fenzi & W. Michiels, *Polynomial (chaos) approximation of maximum eigenvalue functions: efficiency and limitations,* Numerical Algorithms https://doi.org/10.1007/s11075-018-00648-9 (2019).
 
 **Matlab Tutorial:** L. Fenzi & W. Michiels, *Experiments on polynomial (chaos) approximation of maximum eigenvalue functions: Tutorial* Technical Report KU Leuven, Department of Computer Science http://www.cs.kuleuven.be/publicaties/rapporten/tw/TW688.abs.html (2018).  
 
