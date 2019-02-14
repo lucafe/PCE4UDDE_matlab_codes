@@ -1,6 +1,6 @@
-# Polynomial Chaos Theory: Application to the stability of Uncertain Delay Differential Equations
 
-## UPDATE: Polynomial (chaos) approximation of the spectral Abscissa
+
+# Polynomial (chaos) approximation of the maximum eigenvalue functions: efficiency and limitations
 
 Further analysis and matlab file are available for polynomial (chaos) approximation of the spectral abscissa. 
 
@@ -9,6 +9,8 @@ The recent developments explicit the parallelism between polynomial chaos theory
 **Article:** L. Fenzi & W. Michiels, *Polynomial (chaos) approximation of maximum eigenvalue functions: efficiency and limitations,* Numerical Algorithms https://doi.org/10.1007/s11075-018-00648-9 (2019).
 
 **Matlab Tutorial:** L. Fenzi & W. Michiels, *Experiments on polynomial (chaos) approximation of maximum eigenvalue functions: Tutorial* Technical Report KU Leuven, Department of Computer Science http://www.cs.kuleuven.be/publicaties/rapporten/tw/TW688.abs.html (2018).  
+
+# Polynomial Chaos Theory: Application to the stability of Uncertain Delay Differential Equations
 
 ## Matlab codes
 
